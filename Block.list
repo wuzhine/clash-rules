@@ -1,26 +1,3 @@
-# Xiaomi TV Block
-
-# Xiaomi Ads
-DOMAIN-SUFFIX,ad.mi.com
-DOMAIN-SUFFIX,ad.xiaomi.com
-DOMAIN-SUFFIX,ad1.xiaomi.com
-DOMAIN-SUFFIX,adv.sec.miui.com
-DOMAIN-SUFFIX,d1.xiaomi.com
-
-# Xiaomi Tracking
-DOMAIN-SUFFIX,data.mistat.xiaomi.com
-DOMAIN-SUFFIX,mitv.tracking.miui.com
-DOMAIN-SUFFIX,tracking.miui.com
-
-# Third Party Ads
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,admaster.com.cn
-DOMAIN-SUFFIX,miaozhen.com
-DOMAIN-SUFFIX,miaozhan.com
-DOMAIN-SUFFIX,umeng.com
-DOMAIN-SUFFIX,bugly.qq.com
-DOMAIN-SUFFIX,imrworldwide.com
-
 # Adobe Tracking
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,omtrdc.net
