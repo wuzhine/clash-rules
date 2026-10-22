@@ -54,3 +54,5 @@ IP-CIDR,43.132.106.6/32,no-resolve
 IP-CIDR,43.132.106.8/32,no-resolve
 IP-CIDR,43.132.138.67/32,no-resolve
 IP-CIDR,1.15.158.235/32,no-resolve
+# 本次软路由实测：c.zhangle.com:443
+IP-CIDR,125.88.253.248/32,no-resolve
