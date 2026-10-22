@@ -65,3 +65,10 @@ DOMAIN-SUFFIX,tigerbbs.com
 DOMAIN-SUFFIX,xiaohu8.com
 DOMAIN-SUFFIX,zhijianfengyi.cn
 DOMAIN-SUFFIX,zhijianfengyi.com
+# 华泰国际 / 涨乐全球通
+DOMAIN-SUFFIX,htsc.com.hk
+DOMAIN-SUFFIX,htsc.com
+DOMAIN-SUFFIX,zhangle.com
+# GitHub 社区规则中的候选域名，尚未由本次流量实测确认
+DOMAIN-SUFFIX,htsc.com.cn
+DOMAIN-SUFFIX,zhangleglobal.com
