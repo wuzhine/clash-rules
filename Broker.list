@@ -72,3 +72,6 @@ DOMAIN-SUFFIX,zhangle.com
 # GitHub 社区规则中的候选域名，尚未由本次流量实测确认
 DOMAIN-SUFFIX,htsc.com.cn
 DOMAIN-SUFFIX,zhangleglobal.com
+DOMAIN,file.roadshowing.com
+DOMAIN,image.nbd.com.cn
+DOMAIN,alioss-000113-mpass.cn-shenzhen.oss.aliyuncs.com
